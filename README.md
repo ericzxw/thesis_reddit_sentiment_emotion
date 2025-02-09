@@ -19,8 +19,8 @@ If you feel interetsed in this research topic or have any questions, please cont
 - Following the guidelines advocated by Benton et al.(2017) regarding social media data in health research, this repository remains public for interested researchers in order to enhance the transparency.
 - Please note that the data can only be used for academic research purposes and any commercial form of data use is prohibited.
 - The user comment data was filtered appropriately for the purposes of this study and is not fully representative of all original user comments.
-- This data should be used in accordance with [Reddit's Data Terms of Use]<https://redditinc.com/policies/data-api-terms> and with adequate caution due to the sensitive nature of topics in mental health field and the fragility of social media data sources.
+- This data should be used in accordance with Reddit's Data Terms of Use and with adequate caution due to the sensitive nature of topics in mental health field and the fragility of social media data sources.
 
-
+References:
 Adrian Benton, Glen Coppersmith, and Mark Dredze. “Ethical research protocols for social media health research”. In: Proceedings of the first ACL workshop on ethics in natural
 language processing. 2017, pp. 94–102.
