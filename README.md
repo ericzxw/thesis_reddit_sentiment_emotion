@@ -6,6 +6,9 @@ This is the submission of code and data files of the thesis: Sentiment and Emoti
 **To protect users' privacy, some output cells originally showing user names are cleared.** 
 **CSV Files are data files with author names recoded before submission.**
 
+**Also**, [here is the note document](https://docs.google.com/document/d/1TH1_HcW54UvD2LATRAtWbAWTZGlan0RXptavTtyPs5Y/edit?usp=sharing) which stores all the key notes and results of this study that might help you to understand how this study was formulated throughout the journey.
+
+
 If you feel interetsed in this research topic or have any questions, please contact me via: *xinwen.zou@outlook.com*
 
 - srdd_user_list_annoymous.csv  is the user information file of users with SRDD
